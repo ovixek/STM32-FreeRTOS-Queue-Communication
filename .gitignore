@@ -1,0 +1,25 @@
+# STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+Debug/
+Release/
+*.launch
+
+# Build files
+*.o
+*.elf
+*.map
+*.bin
+
+# CubeIDE generated
+Drivers/
+Middlewares/
+Core/Inc/
+Startup/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup & temp
+*~
