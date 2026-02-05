@@ -23,3 +23,5 @@ Thumbs.db
 
 # Backup & temp
 *~
+.metadata/
+Inter-task-communication/
